@@ -1,1 +1,2 @@
 git practise
+succesfully pushed local repo infor to GITHUb
